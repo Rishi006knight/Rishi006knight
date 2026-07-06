@@ -1,82 +1,119 @@
-# 👋 Hi, I'm Rishi
-
-## 🚀 About Me
-I'm a passionate developer focused on building impactful software solutions. I love exploring new technologies and contributing to open-source projects.
-
-- 🔭 Currently working on exciting projects
-- 🌱 Learning and growing every day
-- 💬 Open to collaborations and discussions
-- ⚡ Fun fact: I love turning ideas into reality through code
-
-## 🛠️ Tech Stack
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishi006knight&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi006knight&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi006knight&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Rishi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Spring%20Boot%20%2B%20React&descSize=16&descColor=94a3b8" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=Rishi006knight&style=flat-square&color=0f172a&label=PROFILE+VIEWS" />
+
 </div>
 
-## 🏆 Achievements
+<br/>
+
+Building production-grade systems with Java & React — one real problem at a time.
+
+<br/>
+
+🏗️ Shipped Projects
+<table>
+<tr>
+<td width="50%">
+
+🗳️ BoothFlow
+Election Management System
+
+Manage the full election lifecycle — candidate filing, voter verification, secure ballot casting, and real-time result tallying.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</td>
+<td width="50%">
+
+🚄 FastRail
+Railway Reservation System
+
+End-to-end ticket booking — train search across routes, live seat availability, reservation flow, and cancellation management.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+⚙️ What I Work With
+<table align="center">
+<tr>
+<td align="center" width="96">
+<br/>
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/>
+<b>Java</b>
+</td>
+<td align="center" width="96">
+<br/>
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br/>
+<b>Spring Boot</b>
+</td>
+<td align="center" width="96">
+<br/>
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/>
+<b>React</b>
+</td>
+<td align="center" width="96">
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/>
+<b>PostgreSQL</b>
+</td>
+<td align="center" width="96">
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/>
+<b>MongoDB</b>
+</td>
+<td align="center" width="96">
+<br/>
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/>
+<b>Git</b>
+</td>
+<td align="center" width="96">
+<br/>
+<img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" /><br/>
+<b>Maven</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishi006knight&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rishi006knight&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi006knight&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=c9d1d9&langs_count=6" height="170" />
+
 </div>
 
-## 🔗 Connect With Me
+<br/>
+
 <div align="center">
-  <a href="https://github.com/Rishi006knight" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
+
+
 </div>
 
-## 📝 Featured Projects
-### [Project Name 1](link-to-project)
-Brief description of your project and what it does.
-
-### [Project Name 2](link-to-project)
-Brief description of your project and what it does.
-
-### [Project Name 3](link-to-project)
-Brief description of your project and what it does.
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi006knight&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</div>
-
-## 🤝 Support
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishi006knight&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
-
----
+<br/>
+<br/>
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%" />
+
 </div>
