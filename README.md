@@ -1,115 +1,84 @@
-<!-- ================= PREMIUM HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">⚡ Hey, I'm Rishi ⚡</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+<h1 align="center">Hi 👋, I'm Rishi</h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Real+Projects;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-## 🧑‍🚀 About Me
+## 🧑‍💻 About Me
 
-```yaml
-Name: Rishi
-Role: Developer
-Focus: Full Stack + AI
-Location: India 🇮🇳
-Passion: Building impactful tech 🚀
-```
+* 💻 Focused on **Full Stack Development**
+* 🌱 Currently learning **AI & Backend Systems**
+* 🚀 Interested in building **real-world projects**
+* 📍 Based in **India**
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Rishi006knight"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://github.com/Rishi006knight">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishi006knight&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi006knight&theme=tokyonight&border_radius=10" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi006knight&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishi006knight&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi006knight&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Badges
+## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishi006knight&theme=algolia&margin-w=10&margin-h=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi006knight&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 📌 Featured Projects
 
-| Project          | Description             | Tech        |
-| ---------------- | ----------------------- | ----------- |
-| 🚀 Project One   | Awesome feature/project | React, Node |
-| 🌟 Project Two   | Something impactful     | Python      |
-| 💡 Project Three | Innovative solution     | AI/ML       |
+* 🔗 https://github.com/Rishi006knight?tab=repositories
 
 ---
 
-## 🧠 Currently Learning
+## 🎯 Goals
 
-* 🤖 Machine Learning
-* 🌐 Advanced Web Dev
-* ⚙️ System Design
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build SaaS products
-* 🌍 Contribute to major open-source
-* 🧠 Master AI engineering
+* 🚀 Build strong portfolio projects
+* 🌍 Contribute to open source
+* 🧠 Improve problem-solving skills
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Profile Views
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Rishi006knight&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 📈 Visitors
+## 💡 Quote
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishi006knight&label=Visitors&color=blueviolet&style=flat" />
-</p>
+> "Consistency beats talent when talent doesn’t work hard."
 
 ---
 
-## 💬 Dev Quote
-
-> "First, solve the problem. Then, write the code." – John Johnson
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-
+⭐️ From Rishi
