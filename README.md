@@ -1,114 +1,64 @@
-<!-- ================= PREMIUM HEADER ================= -->
-
-<h1 align="center">⚡ Hey, I'm Rishi ⚡</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+<h1 align="center">Hi there, I'm Rishi 👋</h1>
+<h3 align="center">A passionate Full-Stack Developer & Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7530B&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+stuff+with+code.;Always+learning+new+things." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍🚀 About Me
-
-```yaml
-Name: Rishi
-Role: Developer
-Focus: Full Stack + AI
-Location: India 🇮🇳
-Passion: Building impactful tech 🚀
-```
+### 🧑💻 About Me
+- 🔭 I’m currently working on modern full-stack web applications and machine learning projects (like **FastRail**, **SchemeScan**, and **SalesTracker**).
+- 🌱 I’m currently learning deeper **AI/ML** integrations and **Advanced Cloud Architecture**.
+- 👯 I’m looking to collaborate on **open-source React/Next.js projects** and **AI-driven web apps**.
+- 💬 Ask me about **React, Next.js, TypeScript, Python, and Data Visualization**.
+- ⚡ Fun fact: *I debug code better with a cup of coffee ☕ at 2 AM.*
 
 ---
 
-## 🌐 Socials
-
+### 🛠️ Tech Stack
 <p align="center">
-  <a href="https://github.com/Rishi006knight"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,django,prisma,supabase,docker,git,githubactions,vscode,vite" alt="My Tech Stack" />
+  </a>
 </p>
 
 ---
 
-## ⚡ Tech Stack
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishi006knight&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rishi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi006knight&theme=tokyonight&hide_border=true" alt="Rishi's GitHub Streak" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,mongodb,mysql,git,github,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi006knight&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishi006knight&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" width="48%" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
+### 🐍 Watch my contributions get eaten!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishi006knight&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi006knight&theme=tokyonight&border_radius=10" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi006knight&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/Rishi006knight/Rishi006knight/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## 🏆 Achievements & Badges
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+---
+
+### 🌐 Connect with me
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishi006knight&theme=algolia&margin-w=10&margin-h=10"/>
+  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
-
-## 🔥 Featured Projects
-
-| Project          | Description             | Tech        |
-| ---------------- | ----------------------- | ----------- |
-| 🚀 Project One   | Awesome feature/project | React, Node |
-| 🌟 Project Two   | Something impactful     | Python      |
-| 💡 Project Three | Innovative solution     | AI/ML       |
-
----
-
-## 🧠 Currently Learning
-
-* 🤖 Machine Learning
-* 🌐 Advanced Web Dev
-* ⚙️ System Design
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build SaaS products
-* 🌍 Contribute to major open-source
-* 🧠 Master AI engineering
-
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Rishi006knight&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
-
-## 📈 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishi006knight&label=Visitors&color=blueviolet&style=flat" />
-</p>
-
----
-
-## 💬 Dev Quote
-
-> "First, solve the problem. Then, write the code." – John Johnson
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
