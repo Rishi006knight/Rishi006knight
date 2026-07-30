@@ -8,7 +8,7 @@
 ---
 
 ### 🧑💻 About Me
-- 🔭 I’m currently working on modern full-stack web applications and machine learning projects (like **FastRail**, **SchemeScan**, and **SalesTracker**).
+- 🔭 I’m currently working on modern full-stack web applications and machine learning projects (like **neutralise**, **scheme-checker**, and **ml shop**).
 - 🌱 I’m currently learning deeper **AI/ML** integrations and **Advanced Cloud Architecture**.
 - 👯 I’m looking to collaborate on **open-source React/Next.js projects** and **AI-driven web apps**.
 - 💬 Ask me about **React, Next.js, TypeScript, Python, and Data Visualization**.
@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishi006knight&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rishi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishi006knight&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishi's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi006knight&theme=tokyonight&hide_border=true" alt="Rishi's GitHub Streak" width="48%" />
 </p>
 
