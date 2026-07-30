@@ -8,7 +8,7 @@
 ---
 
 ### 🧑💻 About Me
-- 🔭 I’m currently working on modern full-stack web applications and machine learning projects (like **neutralise**, **scheme-checker**, and **ml shop**).
+- 🔭 I’m currently working on modern full-stack web applications and machine learning projects (like **FastRail**, **SchemeScan**, and **SalesTracker**).
 - 🌱 I’m currently learning deeper **AI/ML** integrations and **Advanced Cloud Architecture**.
 - 👯 I’m looking to collaborate on **open-source React/Next.js projects** and **AI-driven web apps**.
 - 💬 Ask me about **React, Next.js, TypeScript, Python, and Data Visualization**.
