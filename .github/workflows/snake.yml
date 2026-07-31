@@ -2,10 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs automatically every day at midnight UTC
     - cron: "0 0 * * *"
-  # Allows manual triggering from the Actions tab
   workflow_dispatch:
+
+# Explicitly grant write permissions to the token
+permissions:
+  contents: write
 
 jobs:
   build:
